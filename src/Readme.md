@@ -1,11 +1,18 @@
 # GitHub repo
 
--git status 
+elso-  git status 
 
--git add .
+masodik-   git add .
 
--git status 
+harmadik-  git status 
 
-git commit -m "first commit"
+negyedik-   git commit -m "first commit"
 
--git status
+ötödik-    git status
+
+hatodik-   git push -u origin master
+
+hetedik-  Token
+
+
+
