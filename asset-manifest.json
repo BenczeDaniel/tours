@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/teszt/static/css/main.31d6cfe0.css",
-    "main.js": "/teszt/static/js/main.139ee268.js",
-    "index.html": "/teszt/index.html",
-    "main.139ee268.js.map": "/teszt/static/js/main.139ee268.js.map"
+    "main.css": "/tours/static/css/main.31d6cfe0.css",
+    "main.js": "/tours/static/js/main.139ee268.js",
+    "index.html": "/tours/index.html",
+    "main.139ee268.js.map": "/tours/static/js/main.139ee268.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
